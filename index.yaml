@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  auto-deploy-app:
+  - apiVersion: v1
+    created: 2020-03-25T00:07:38.373932513Z
+    description: GitLab's Auto-deploy Helm Chart
+    digest: 5402cea41f4bc748bd2fa69340d01c24b5333d80f82e5c9dd650c67973f07531
+    icon: https://gitlab.com/gitlab-com/gitlab-artwork/raw/master/logo/logo-square.png
+    name: auto-deploy-app
+    urls:
+    - https://negashev.github.io/gitlab-auto-deploy-app/auto-deploy-app-0.6.0.tgz
+    version: 0.6.0
+generated: 2020-03-25T00:07:38.372604708Z
